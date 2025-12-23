@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the experimental artifacts used in the evaluation of large language models (LLMs) for Text-to-SQL translation, as described in the associated IEEE Access manuscript.
+This repository contains the experimental artifacts used in the evaluation of Large Language Models (LLMs) for Text-to-SQL translation, as described in the associated manuscript.
 
 The materials provided here support transparency, reproducibility, and further inspection of the experimental setup, including both the core Text-to-SQL evaluation and the preliminary validation of security-related behaviors.
 
@@ -108,4 +108,4 @@ This repository includes multiple licenses governing different components of the
 
 ## Citation
 
-If you use this repository in your research, please cite the associated IEEE Access article and the Zenodo release (DOI to be added upon publication).
+If you use this repository in your research, please cite the associated article and the Zenodo release (DOI to be added upon publication).
