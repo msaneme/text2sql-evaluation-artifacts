@@ -6,7 +6,7 @@ This repository contains the experimental artifacts used in the evaluation of La
 
 The materials provided here support transparency, reproducibility, and further inspection of the experimental setup, including both the core Text-to-SQL evaluation and the preliminary validation of security-related behaviors.
 
-A persistent DOI will be assigned via Zenodo upon release (**v1.0.0**).
+[![DOI](https://zenodo.org/badge/1121748752.svg)](https://doi.org/10.5281/zenodo.18036706).
 
 ---
 
@@ -108,4 +108,4 @@ This repository includes multiple licenses governing different components of the
 
 ## Citation
 
-If you use this repository in your research, please cite the associated article and the Zenodo release (DOI to be added upon publication).
+If you use this repository in your research, please cite the associated article and the Zenodo release ([![DOI](https://zenodo.org/badge/1121748752.svg)](https://doi.org/10.5281/zenodo.18036706)).
