@@ -21,7 +21,7 @@ Step1 Prompt
 ### Database schema:
 The query will run on a database whose schema is represented in this string:
 CREATE TABLE collar (
-  "time" TEXT, -- Timestamp of the specific measurement, indicated as date timestamp format
+  "time" TEXT, -- Timestamp of the specific measurement, indicated as Unix Epoch format
   "entityName" TEXT, -- Unique ID for each collar
   scenario TEXT, -- ID of the actuation scenario in which the collar has been deployed
   provider TEXT, -- ID of the device provider
@@ -104,6 +104,7 @@ Required tables and columns:
 - Do NOT include explanations or additional text.
 
 ### Now generate the SQL.
+
 
 """ 
 
